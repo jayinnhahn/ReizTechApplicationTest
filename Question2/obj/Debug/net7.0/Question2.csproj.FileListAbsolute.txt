@@ -1,0 +1,15 @@
+C:\Users\Jay\Desktop\RizzTech\Question2\bin\Debug\net7.0\Question2.exe
+C:\Users\Jay\Desktop\RizzTech\Question2\bin\Debug\net7.0\Question2.deps.json
+C:\Users\Jay\Desktop\RizzTech\Question2\bin\Debug\net7.0\Question2.runtimeconfig.json
+C:\Users\Jay\Desktop\RizzTech\Question2\bin\Debug\net7.0\Question2.dll
+C:\Users\Jay\Desktop\RizzTech\Question2\bin\Debug\net7.0\Question2.pdb
+C:\Users\Jay\Desktop\RizzTech\Question2\obj\Debug\net7.0\Question2.csproj.AssemblyReference.cache
+C:\Users\Jay\Desktop\RizzTech\Question2\obj\Debug\net7.0\Question2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jay\Desktop\RizzTech\Question2\obj\Debug\net7.0\Question2.AssemblyInfoInputs.cache
+C:\Users\Jay\Desktop\RizzTech\Question2\obj\Debug\net7.0\Question2.AssemblyInfo.cs
+C:\Users\Jay\Desktop\RizzTech\Question2\obj\Debug\net7.0\Question2.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Desktop\RizzTech\Question2\obj\Debug\net7.0\Question2.dll
+C:\Users\Jay\Desktop\RizzTech\Question2\obj\Debug\net7.0\refint\Question2.dll
+C:\Users\Jay\Desktop\RizzTech\Question2\obj\Debug\net7.0\Question2.pdb
+C:\Users\Jay\Desktop\RizzTech\Question2\obj\Debug\net7.0\Question2.genruntimeconfig.cache
+C:\Users\Jay\Desktop\RizzTech\Question2\obj\Debug\net7.0\ref\Question2.dll
