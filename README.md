@@ -1,5 +1,5 @@
 # ReizTechApplicationTest
-The code for my Reiz Tech Application! This answers 2 question given by the company to ensure my profficiency and skill in .NET
+The code for my Reiz Tech Application! This answers 2 question given by the company ReizzTech! 
 
 Questions!! 
 
