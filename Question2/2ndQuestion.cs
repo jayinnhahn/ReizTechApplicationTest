@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 namespace BranchStructure
@@ -18,16 +17,23 @@ namespace BranchStructure
     {
         static int CalculateDepth(Branch branch)
         {
-            int maxDepth = 0;
-            foreach (Branch b in branch.branches)
+            if (branch.branches.Count == 0)
             {
-                int depth = CalculateDepth(b);
-                if (depth > maxDepth)
-                {
-                    maxDepth = depth;
-                }
+                return 1;
             }
-            return maxDepth + 1;
+            else
+            {
+                int maxDepth = 0;
+                foreach (Branch b in branch.branches)
+                {
+                    int depth = CalculateDepth(b);
+                    if (depth > maxDepth)
+                    {
+                        maxDepth = depth;
+                    }
+                }
+                return maxDepth + 1;
+            }
         }
 
         static void Main(string[] args)
@@ -43,6 +49,11 @@ namespace BranchStructure
                     for (int k = 0; k < 2; k++)
                     {
                         Branch branch3 = new Branch();
+                        for (int l = 0; l < 2; l++)
+                        {
+                            Branch branch4 = new Branch();
+                            branch3.branches.Add(branch4);
+                        }
                         branch2.branches.Add(branch3);
                     }
                     branch1.branches.Add(branch2);
